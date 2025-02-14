@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #333;
+    color: white;
+    padding: 1rem 0;
+    text-align: center;
+}
+header:hover
+{ 
+    color: bisque;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+#about 
+{
+  text-align: justify;
+  line-height: 1.6;
+  text-justify: inter-word;
+}
+
+#projects
+{
+    text-align: justify;
+    line-height: 1.6;
+    text-justify: inter-word;
+}
+#skills
+{
+    line-height: 1.6;
+    text-justify: inter-word;
+}
+#contact
+{
+    line-height: 1.6;
+    text-justify: inter-word;
+}
+section {
+    padding: 2rem;
+    background: rgb(232, 223, 223);
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.project {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
