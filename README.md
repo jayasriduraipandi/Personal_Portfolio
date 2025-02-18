@@ -46,7 +46,7 @@ portfolio-website/
    ```bash
    cd Personal_Portfolio
    ```
-3. Open `index.html` in your browser or use Live Server in VS Code.
+3. Open `front.html` in your browser or use Live Server in VS Code.
 
 
 Deploying on GitHub Pages
